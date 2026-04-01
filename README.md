@@ -782,20 +782,6 @@ const assistantModule = feature('KAIROS')
 
 ---
 
----
-
-## 贡献
-
-欢迎贡献！如果你发现了额外的架构细节、发现了不准确之处，或想扩展特定子系统的覆盖范围：
-
-1. **Fork** 本仓库
-2. 为你的更改**创建分支**（`git checkout -b fix/tool-system-details`）
-3. **提交 Pull Request**，并附上清晰的描述说明你添加或修正了什么
-
-请保持贡献的事实性和技术准确性。这是一份参考文档——推测内容应明确标注。
-
----
-
 > **免责声明：** 这是一份非官方的独立分析。Claude Code 是 [Anthropic](https://www.anthropic.com/) 的产品。所有商标归其各自所有者所有。
 
 *生成于 2025-03-31。基于对 Claude Code 源码树的分析。*
