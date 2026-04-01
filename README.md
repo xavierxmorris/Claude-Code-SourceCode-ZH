@@ -74,7 +74,7 @@ Claude Code 是一个功能丰富的交互式终端应用，允许直接在命�
 ## 3. 目录结构
 
 ```text
-claude-code-analysis/
+claude-code
 └── src/                          # 所有源码（单一顶级目录）
     ├── main.tsx                  # 主引导与初始化
     ├── QueryEngine.ts            # 对话循环编排器
